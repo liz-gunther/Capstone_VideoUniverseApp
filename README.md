@@ -11,7 +11,7 @@ An app for my local brick-and-mortar video store to keep people connected to the
 	a) --> develop "movies" class to contain relevant information for each movie: title, genre, MPAA rating, year
 	b) --> develop "user" class to enable the user to select favorite genres to generate suggestions for each user
 4. As a user, I want to be able to create a user profile.
-	a) Create user account page -- select username, select password, include first name, last name, email address, and address
+	a) Create user account page --> develop "user" class to select username, select password, include first name, last name, email address, and address
 	b) Login page -- enter email, check against database to ensure passwords match
 	c) Account page -- contains all user
 5. As a user, I want to be able to filter movie selections by media type (DVD, Blu-Ray, VHS) so that I can experience a wider variety of movie experiences.
