@@ -8,7 +8,7 @@ An app for my local brick-and-mortar video store to keep people connected to the
 	a) The ability to enter and save credit card information for future purchases --> develop "basket" and "user" classes with payment information
  	b) The ability to view/pay for any late fees that accrue on my account --> develop "basket" and "user" classes to calculate/assign late fees to a user
 3. As a user, I want to be able to select a genre and have a recommendation randomly generated so that I know what to rent.
-	a) --> develop "movies" class to contain relevant information for each movie: title, genre, MPAA rating, year
+	a) --> develop "movies" class to contain relevant information for each movie: title, genre, MPAA rating, year, current availablity
 	b) --> develop "user" class to enable the user to select favorite genres to generate suggestions for each user
 4. As a user, I want to be able to create a user profile.
 	a) Create user account page --> develop "user" class to select username, select password, include first name, last name, email address, and address
